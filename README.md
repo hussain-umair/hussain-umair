@@ -15,9 +15,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 #### Reach me at:
-<a href="www.linkedin.com/in/umairhussain96">
-<img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"; alt="Linkedin">
+
+
+<a href="https://linkedin.com/in/umairhussain96">
+  <img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"; alt="Linkedin">
 </a>
 <br />
 <br />
